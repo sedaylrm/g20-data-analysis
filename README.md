@@ -1,6 +1,7 @@
 # G20 Veri Analizi ve Görselleştirme Projesi
 
 Bu çalışma, G20 ülkelerine ait ekonomik, teknolojik ve iklimsel verilerin Python kullanılarak analiz edilip görselleştirildiği kapsamlı bir portfolyo projesidir.
+Bu çalışma Sedanur Yıldırım ve Eda Başpınar tarafından ortaklaşa geliştirilmiştir.
 
 ## 📊 Proje Kapsamı
 Projede ele alınan temel başlıklar:
